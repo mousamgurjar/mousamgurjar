@@ -1,0 +1,23 @@
+[
+      
+{
+            "name":"iphone",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+      },
+{
+            "name":"hp",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+      },
+{
+            "name":"dell",
+            "price":154,
+            "featured":true,
+            "company":"dell"
+      }
+
+      
+]
